@@ -1,2 +1,2 @@
 ## 问题一：npm ERR! Failed to parse json
-问题在于package.json
+package.json里面有问题，出错了。
